@@ -4,8 +4,8 @@ const app = express();
 
 app.use(express.static(path.resolve(__dirname, "public")));
 
-app.get("/ping", (req, res) => {
-  res.end("pong");
+app.get("/", (req, res) => {
+  res.end("Hello world");
 });
 
 module.exports = app;
