@@ -2,7 +2,11 @@
 
 Example project for setting up a portfolio site
 
-# Install on EC2 instance
+## Notes
+
+> Can you make a video about how to setup a portfolio site and what to add to it?
+
+## Install on EC2 instance
 
 0. ssh in to instance
 1. Run `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash`
