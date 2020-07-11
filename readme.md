@@ -1,11 +1,3 @@
-# Node Demo
+# Portfolio
 
-## What we will cover
-
-- 1
-- 2
-- 3
-
-## Notes
-
-Some notes
+Example project for setting up a portfolio site
