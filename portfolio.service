@@ -1,0 +1,11 @@
+[Unit]
+Description=Portfolio
+After=syslog.target
+
+[Service]
+Restart=on-failure
+RestartSec=5s
+ExecStart = /home/ubuntu/portfolio/run.sh
+
+[Install]
+WantedBy=multi-user.target
