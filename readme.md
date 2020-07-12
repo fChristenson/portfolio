@@ -17,3 +17,6 @@ Example project for setting up a portfolio site
 6. Run `chmod +x run.sh`
 7. Run `chmod +x setup.sh`
 8. Run `./setup.sh`
+9. Run `sudo apt-get update -y`
+10. Run `sudo apt-get install iptables-persistent`
+11. When prompted if you want `iptables-persistent` to handle loading firewall rules click `yes`
