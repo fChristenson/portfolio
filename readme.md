@@ -14,9 +14,10 @@ Example project for setting up a portfolio site
 3. Run `nvm install 14.5.0`
 4. Run `git clone https://github.com/fChristenson/portfolio.git`
 5. Run `cd portfolio`
-6. Run `chmod +x run.sh`
-7. Run `chmod +x setup.sh`
-8. Run `./setup.sh`
-9. Run `sudo apt-get update -y`
-10. Run `sudo apt-get install iptables-persistent`
-11. When prompted if you want `iptables-persistent` to handle loading firewall rules click `yes`
+6. Run `npm i`
+7. Run `chmod +x run.sh`
+8. Run `chmod +x setup.sh`
+9. Run `./setup.sh`
+10. Run `sudo apt-get update -y`
+11. Run `sudo apt-get install iptables-persistent`
+12. When prompted if you want `iptables-persistent` to handle loading firewall rules click `yes`
